@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu May 12 22:34:03 2022
+# Process ID: 15956
+# Current directory: D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.runs/synth_1
+# Command line: vivado.exe -log placa.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source placa.tcl
+# Log file: D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.runs/synth_1/placa.vds
+# Journal file: D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.runs/synth_1\vivado.jou
+# Running On: DESKTOP-JJ7FVM3, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 16, Host memory: 16559 MB
+#-----------------------------------------------------------
+source placa.tcl -notrace

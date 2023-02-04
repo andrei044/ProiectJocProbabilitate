@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri May 13 18:16:27 2022
+# Process ID: 19036
+# Current directory: D:/PSN/VHDL/Proiect_JocProbabilitate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5060 D:\PSN\VHDL\Proiect_JocProbabilitate\Proiect_JocProbabilitate.xpr
+# Log file: D:/PSN/VHDL/Proiect_JocProbabilitate/vivado.log
+# Journal file: D:/PSN/VHDL/Proiect_JocProbabilitate\vivado.jou
+# Running On: DESKTOP-JJ7FVM3, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 16, Host memory: 16559 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.xpr
+update_compile_order -fileset sources_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+connect_hw_server -allow_non_jtag
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.runs/impl_1/placa.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.runs/impl_1/placa.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {D:/PSN/VHDL/Proiect_JocProbabilitate/Proiect_JocProbabilitate.runs/impl_1/placa.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
